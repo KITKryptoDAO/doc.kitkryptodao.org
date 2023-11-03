@@ -3,6 +3,7 @@
 ## Introduction
 
 * [About KITKryptoDAO](README.md)
+* [Official Links](introduction/official-links.md)
 
 ## DAO related
 
