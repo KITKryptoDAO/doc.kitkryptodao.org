@@ -18,4 +18,5 @@
   * [区块链应用场景讨论](educational-content/saturday-crypto-meetings/qu-kuai-lian-ying-yong-chang-jing-tao-lun/README.md)
     * [Layer 1 vs. Layer 2](educational-content/saturday-crypto-meetings/qu-kuai-lian-ying-yong-chang-jing-tao-lun/layer-1-vs.-layer-2.md)
     * [Crypto Trading](educational-content/saturday-crypto-meetings/qu-kuai-lian-ying-yong-chang-jing-tao-lun/crypto-trading.md)
+  * [Ethereum EVM illustrated](educational-content/saturday-crypto-meetings/ethereum-evm-illustrated.md)
 * [Topic Cache](educational-content/topic-cache.md)
