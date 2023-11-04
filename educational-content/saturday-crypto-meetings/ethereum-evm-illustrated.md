@@ -8,6 +8,7 @@ description: Topic for the Crypto Meeting on 2023.11.04
 
 1. [Ethereum EVM illustrated](https://github.com/takenobu-hs/ethereum-evm-illustrated) by [Takenobu Tani](https://github.com/takenobu-hs)
 2. [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper)
+3. [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
 
 ### 0x01 智能合约部署实践
 
