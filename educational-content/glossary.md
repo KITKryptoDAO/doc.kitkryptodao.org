@@ -27,6 +27,10 @@ Chainlink是一个去中心化预言机网络，将智能合约安全地连接�
 Chainlink CCIP provides a single simple interface through which dApps and web3 entrepreneurs can securely meet all their cross-chain needs. You can use CCIP to transfer data, tokens, or both data and tokens across chains. Given the inherent risks of cross-chain interoperability, CCIP is built with a security-first mindset. Some security features include a Risk Management Network that monitors for malicious activity, decentralized oracle computation from a wide range of high-quality node operators with verifiable on-chain performance histories, and the off-chain reporting (OCR) protocol, which already secures significant value on several mainnet blockchains.
 - Source：[https://docs.chain.link/ccip/](https://docs.chain.link/ccip/)
 
+### Off-Chain Reporting (OCR) Protocol
+The OCR protocol allows nodes to aggregate their observations into a single report off-chain using a secure P2P network. A single node then submits a transaction with the aggregated report to the chain. Each report consists of many nodes' observations and has to be signed by a quorum of nodes. These signatures are verified on-chain.
+- Source：[https://docs.chain.link/architecture-overview/off-chain-reporting/](https://docs.chain.link/architecture-overview/off-chain-reporting/)
+
 ### Chainlink Data Feeds
 Chainlink Data Feeds are the quickest way to connect your smart contracts to the real-world data such as asset prices, reserve balances, NFT floor prices, and L2 sequencer health.
 - Source：[https://docs.chain.link/data-feeds/](https://docs.chain.link/data-feeds/)
@@ -46,10 +50,6 @@ Proof of Reserves (PoR) verifies digital asset collateralization held by crypto 
 ### Chainlink Automation
 Automate your smart contracts using a secure and hyper-reliable decentralized network that uses the same external network of node operators that secures billions in value. Building on Chainlink Automation will accelerate your innovation, save you time and money, and help you get to market faster so you don't have to deal with the setup cost, ongoing maintenance, and risks associated with a centralized automation stack.
 - Source：[https://docs.chain.link/chainlink-automation](https://docs.chain.link/chainlink-automation)
-
-### Off-Chain Reporting (OCR) Protocol
-The OCR protocol allows nodes to aggregate their observations into a single report off-chain using a secure P2P network. A single node then submits a transaction with the aggregated report to the chain. Each report consists of many nodes' observations and has to be signed by a quorum of nodes. These signatures are verified on-chain.
-- Source：[https://docs.chain.link/architecture-overview/off-chain-reporting/](https://docs.chain.link/architecture-overview/off-chain-reporting/)
 
 ### InterPlanetary File System (IPFS)
 The InterPlanetary File System (IPFS) is a set of composable, peer-to-peer protocols for addressing, routing, and transferring content-addressed data in a decentralized file system.
