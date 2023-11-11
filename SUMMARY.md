@@ -21,3 +21,4 @@
   * [Ethereum EVM illustrated](educational-content/saturday-crypto-meetings/ethereum-evm-illustrated.md)
 * [Solidity Live Coding](educational-content/solidity-live-coding.md)
 * [Topic Cache](educational-content/topic-cache.md)
+* [Glossary](educational-content/glossary.md)

@@ -1,0 +1,106 @@
+# Glossary
+The gist of glossary is to provide us a quick guidance to the common concepts in Defi with focus on ongoing hackaton project, which can benefit both experienced developers and newbie
+like me xD. The glossary collects technical terms mentioned at least once by [Hannes Gao](https://twitter.com/hannesgao) in the telegram channel.
+Hopefully U can find this glossary helpful and also contribute here! To note, current version
+only supports chinese as we understand concepts better in mother tongue. Concept order is reverse chronological as I have to review our history chat :D.
+
+## Oneliner explanation
+- Galxe Polygon OAT: 
+    - Galxe OAT（链上成就代币）是Polygon和BNB Chain上的数字徽章标准，用于记录您的链上和链下生活经历。由 Galxe、Polygon Studios 以及 Filecoin 和 IPFS 的 NFT Storage 联合推出。
+- Apache 2.0 licence: 
+    - Apache是一种开源软件许可证，和MIT的区别可以看[这里](https://soos.io/apache-vs-mit-license),总体来说apache更加保护软件专利。
+- OAT: 
+    - "On-chain Achievement Token"（在链上成就代币）可能是指一种基于区块链技术的代币，用于记录和奖励用户在特定平台或生态系统中取得的成就。
+- CCIP:
+    - 跨链互操作性协议（Cross-Chain Interoperability Protocol，CCIP）是一种旨在实现不同区块链网络之间互操作性的协议。
+- CCIP in chainlink: 
+    - Chainlink不仅是接入顶尖区块链数量最多的预言机解决方案，还驱动着大量dApp在这些区块链上运行。Chainlink已经接入了顶尖的借贷、保险和其他DeFi协议，并通过开源开发和Chainlink社区激励计划加速链上应用。多个区块链合作伙伴和应用都表达过希望使用Chainlink预言机展开跨链活动，因此首要任务就是为整个智能合约行业提供非常安全可靠且性能优越的通用跨链解决方案。
+- OCR 2.0: 
+    - OCR（链下报告）协议（OCR 1.0）是对 Chainlink Data Feeds 的扩展升级，采用点对点网络在链下聚合数据，并降低了创建防篡改预言机报告的链上gas成本。OCR 1.0 将所有节点的数据在链下聚合成一份预言机报告，然后通过一个节点将报告提交到链上。每个节点的数据和签名可以在链上进行验证。
+- IPFS database: 
+    - 星际文件系统(InterPlanetary File System)
+    - IPFS，是点到点的超媒体协议，它让网络更快、更安全、更开放。说简单一点，它就是一个去中心化互联网。说技术一点，它是一个基于分布式哈希表DHT进行内容寻址的，基于git模型版本管理的，基于默克尔对象关联的，基于点对点技术的，基于全球化命名空间IPNS的，基于各种技术的，一种分布式文件系统。
+    - https://zhuanlan.zhihu.com/p/579018426
+- DAO:
+    - 去中心化： DAO的决策和运营不由单一的中央权威控制，而是通过智能合约在区块链上执行。这意味着没有中央管理层，所有权利和义务由协议和代码定义。
+    - 自治： DAO 的决策通常是由成员通过投票方式进行的，而这些成员可能是项目的投资者、利益相关者或持有代币的人。决策的执行是通过智能合约自动实施的，无需中介。
+    - 智能合约： DAO 的规则和流程是通过智能合约编程的。这些合约被嵌入到区块链中，确保执行的透明性和不可篡改性。
+    - 代币治理： DAO 可能使用代币作为治理权的标志，即拥有更多代币的个体可能有更多的决策权。这鼓励参与者对项目的成功贡献，并激励他们参与决策过程。
+    - 开放性： 大多数 DAO 是开放的，任何人都可以参与，只需符合规定的条件（通常是持有一定数量的代币）。
+- Genesis NFT collection:
+    - Genesis NFT 系列是创作者发布的第一组 NFT。它也称为 Gen-1 版本或 OG drop。这些掉落通常与许多福利相关，在加密货币和 NFT 领域通常被称为实用程序。福利包括空投、白名单名额、IRL 和虚拟宇宙活动邀请、限量版商品等等！Genesis NFT 集合还可以用来测试一个项目是否能引起人们的共鸣。如果 Genesis NFT 系列卖得很快，就意味着这个项目有观众。其他集合使用其 Genesis 集合为其 DAO（或去中心化自治组织）积累成员。Genesis NFT 作为“门票”或“会员通行证”，允许 NFT 持有者参与决定该项目的未来。
+- Foundation:
+    - Foundation是一个由社区建立的数字收藏品平台，通过简单的应用程序，用户能够在以太坊区块链上竞标数字艺术，完成购买、出售和浏览数字艺术。与其他平台相较，该平台是一个更专注于高质量创意和艺术的小众社区，艺术品种多为精心策展和生成专业化的艺术品NFT。
+- Foundary:
+    - Foundry是一个Solidity框架，用于构建、测试、模糊、调试和部署Solidity智能合约。
+    - community驱动但是更新fix很快
+- Hardhat 和 foundary对比:
+    - foundary有fuzzing测试，而且比Hardhat快很多，测试用solidity写？
+    - harthat 适用于有js,ts的开发者，对test没有特别大要求
+    - links
+        - https://medium.com/@quentangle/2022%E5%8D%81%E5%A4%A7%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7-4a4d664d97cc
+        - https://www.wwsww.cn/jishu/12914.html
+- Polygon Mumbai testnet
+    - l2上的测试网：https://www.alchemy.com/overviews/mumbai-testnet
+- ERC-20：
+    - Fungible token: https://docs.openzeppelin.com/contracts/4.x/erc20
+- ERC721:
+    - Non Fungible token: https://docs.openzeppelin.com/contracts/4.x/erc721
+- 赎回合约:
+    - 这里涉及到了合约的logic，大概框架我们可以看：https://stackoverflow.com/questions/68545930/how-to-withdraw-all-tokens-from-the-my-contract-in-solidity
+- Chainlink data feeds：
+    - https://data.chain.link/
+- Chainlink Data Streams
+    - https://docs.chain.link/data-streams
+- Chainlink VRF
+    - Chainlink VRF (Verifiable Random Function) is a provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without compromising security or usability. 
+    - https://docs.chain.link/vrf
+- Chainlink Proof of Reserves
+    - Proof of Reserves (PoR) verifies digital asset collateralization held by crypto businesses, helping bring greater transparency to depositors via public attestations and independent audits.
+    - https://chain.link/education-hub/proof-of-reserves
+
+- Chainlink Automation
+    - 感觉是为成熟protocol设计的cicd流程
+    - https://docs.chain.link/chainlink-automation
+- Bulk transfer
+    - https://ethereum.stackexchange.com/questions/129475/transfer-erc721-tokens-in-bulk-to-single-address
+- Opensea
+    - OpenSea——全球最大的综合NFT交易平台官方网站网址:https://opensea.io/OpenSea，全球最大的综合NFT交易平台，用户可以在平台上铸造、展示、交易、拍卖NFT。
+    - https://wiki.mbalib.com/wiki/OpenSea
+- ETH build: 
+    - Eth.build 是一个聚焦于 Web3.0 的教育型沙盒，具备如下特性—— 就是图形编程
+        - 无代码拖拽式编程
+        - 完全开源
+    - https://eth.build/
+    - https://github.com/austintgriffith/eth.build
+- ens合约：
+    - ENS（Ethereum Name Service）是以太坊域名服务，是一个基于以太坊区块链的分布式、开放和可扩展的命名系统。
+    - ENS的工作是将可读的域名（比如"alice.eth"）解析为计算机可以识别的标识符，如以太坊地址、内容的散列、元数据等。ENS还支持"反向解析"，这使得将元数据(如规范化域名或接口描述)与以太坊地址相关联成为可能。
+    - ENS的目标与DNS（互联网域名服务）类似，但由于以太坊区块链的功能特点和限制条件，两者架构有很大的不同。与DNS一样，ENS是一个层次结构的域名系统，不同层次域名之间以点作为分隔符，我们把层次的名称叫做域，一个域的所有者能够完全控制其子域。
+    - https://learnblockchain.cn/docs/ens/#ens%E6%9E%B6%E6%9E%84
+- nft的metadata：
+    - 元数据（Metadata）是所有 NFT 合约的重要组成部分，每个代币都有数据可供 OpenSea 等市场检索并用于显示 NFT 的内容，因此智能合约元数据（Metadata）是一个需要了解的重要信息。
+    - NFT 合约的元数据（Metadata）文件是存储在区块链之外某处的 JSON 文件。通过一些技巧，可以在链上执行此操作，也可以在 IPFS 上执行此操作，或者在自己构建的服务器上执行，可以考虑使用 CDN。
+    - https://developer.aliyun.com/article/981471
+- OpenZeppelin vs. hardhat
+    - 都是有项目bootstrap的
+    - https://www.reddit.com/r/ethdev/comments/ju401z/openzepplin_vs_hardhat_vs_truffle_vs_brownie_vs/
+
+## Project toolset
+- Front-end UI/UX: Vue, Vuetify (Component Framework)
+- Wallet-Link: Wagmi (React Hooks for Ethereum)
+    - https://wagmi.sh/
+- On-Chain interaction: Ethers.js
+    - https://docs.ethers.org/v5/
+- Smart Contract: Solidity, Hardhat (SDK), OpenZeppelin (Upgradable Smart Contract Components)
+- Testing: Waffel (Smart Contract Testing), Mocha (JavaScript Test Framework), Chai (BDD/TDD - Assertion Library)
+    - https://getwaffle.io/
+    - https://mochajs.org/
+    - Chai:
+        - test-driven development, or TDD, but behavior-driven development, or BDD
+        - 国内老哥testing教学 https://github.com/JChehe/blog/blob/master/translation/%E7%94%A8Mocha%E5%92%8CChai%E5%AF%B9JavaScript%E8%BF%9B%E8%A1%8C%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95.md
+- Back-end: Python, Flask, SQLite (only for nofraud.token database)
+- AI-Assistance: GPT-4, DALL·E 3
+- CDN/CAPTCHA: Cloudflare Cache, Cloudflare Turnstile
+    - Cloudflare Turnstile 取代Captcha 人類驗證機制
+    - https://www.cloudflare.com/zh-cn/products/turnstile/
