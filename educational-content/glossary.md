@@ -1,6 +1,6 @@
 # Glossary
 The gist of glossary is to provide us a quick guidance to the common concepts in Defi with focus on ongoing hackaton project, which can benefit both experienced developers and newbie
-like me xD. The glossary collects technical terms mentioned at least once by [Hannes Gao](https://twitter.com/hannesgao) in the telegram channel.
+like me xD. The glossary collects technical terms mentioned at least once in the telegram channel.
 Hopefully U can find this glossary helpful and also contribute here! To note, current version
 only supports chinese as we understand concepts better in mother tongue. Concept order is reverse chronological as I have to review our history chat :D.
 
