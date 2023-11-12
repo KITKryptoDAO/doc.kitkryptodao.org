@@ -15,8 +15,7 @@ description: Topic for the Solidity Live Coding on 2023.11.12
 
 1. [Deploying ERC20 Token With Hardhat: A Step-by-Step Guide](https://semaphoreci.com/blog/erc20-token-hardhat)
 2. [Solidity funcions visibility: public, private, internal and external](https://soliditytips.com/articles/solidity-function-visibility/)
-3.  [Solidity Cheatsheet - Solidity 0.8.23 documentation](https://docs.soliditylang.org/en/v0.8.23/cheatsheet.html)
-
-    \
+3. [Solidity Cheatsheet - Solidity 0.8.23 documentation](https://docs.soliditylang.org/en/v0.8.23/cheatsheet.html)
+4. [Hardhat's tutorial for beginners](https://hardhat.org/tutorial)
 
 
