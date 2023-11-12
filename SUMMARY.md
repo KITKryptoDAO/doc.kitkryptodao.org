@@ -19,6 +19,7 @@
     * [Layer 1 vs. Layer 2](educational-content/saturday-crypto-meetings/qu-kuai-lian-ying-yong-chang-jing-tao-lun/layer-1-vs.-layer-2.md)
     * [Crypto Trading](educational-content/saturday-crypto-meetings/qu-kuai-lian-ying-yong-chang-jing-tao-lun/crypto-trading.md)
   * [Ethereum EVM illustrated](educational-content/saturday-crypto-meetings/ethereum-evm-illustrated.md)
-* [Solidity Live Coding](educational-content/solidity-live-coding.md)
+* [Solidity Live Coding](educational-content/solidity-live-coding/README.md)
+  * [Solidity Playground Setup](educational-content/solidity-live-coding/solidity-playground-setup.md)
 * [Topic Cache](educational-content/topic-cache.md)
 * [Glossary](educational-content/glossary.md)
