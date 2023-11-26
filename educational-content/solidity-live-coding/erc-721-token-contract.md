@@ -1,5 +1,5 @@
 ---
-description: Topic for the Solidity Live Coding on 2023.11.18
+description: Topic for the Solidity Live Coding on 2023.11.18, hosted by Zion Zhan
 ---
 
 # ERC-721 Token Contract

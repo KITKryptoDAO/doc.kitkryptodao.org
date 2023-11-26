@@ -1,5 +1,5 @@
 ---
-description: Topic for the Crypto Meeting on 2023.10.21
+description: Topic for the Crypto Meeting on 2023.10.21, hosted by Hannes Gao
 ---
 
 # 区块链应用场景讨论

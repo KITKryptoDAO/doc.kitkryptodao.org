@@ -1,5 +1,5 @@
 ---
-description: Topic for the Crypto Meeting on 2023.10.28
+description: Topic for the Crypto Meeting on 2023.10.28, hosted by Clarence Wu
 ---
 
 # Layer 1 vs. Layer 2

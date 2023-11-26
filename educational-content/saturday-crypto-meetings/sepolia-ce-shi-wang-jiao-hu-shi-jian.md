@@ -1,5 +1,5 @@
 ---
-description: Topic for the Crypto Meeting on 2023.10.14
+description: Topic for the Crypto Meeting on 2023.10.14, hosted by Hannes Gao
 ---
 
 # Sepolia测试网交互实践

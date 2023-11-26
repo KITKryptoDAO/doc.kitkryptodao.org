@@ -1,5 +1,5 @@
 ---
-description: Topic for the Solidity Live Coding on 2023.11.26
+description: Topic for the Solidity Live Coding on 2023.11.26, hosted by Hannes Gao
 ---
 
 # Frontend Setup

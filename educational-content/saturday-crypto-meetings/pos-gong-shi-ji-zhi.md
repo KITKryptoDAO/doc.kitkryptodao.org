@@ -1,5 +1,5 @@
 ---
-description: Topic for the Crypto Meeting on 2023.10.07
+description: Topic for the Crypto Meeting on 2023.10.07, hosted by Zion Zhan
 ---
 
 # POS共识机制

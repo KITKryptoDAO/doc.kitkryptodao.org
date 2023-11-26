@@ -6,26 +6,26 @@ description: Topics reserved for the Crypto Meetings in Future
 
 ### 0x01 区块链应用场景相关
 
-1. 各类区块链基础设施（公链，链上存储设施等）的应用场景
-2. Token的分类，各类Token的应用场景
+1. ~~各类区块链基础设施（公链，链上存储设施等）的应用场景~~（[Crypto Meeting on 2023.10.21](topic-cache.md#0x01-qu-kuai-lian-ying-yong-chang-jing-xiang-guan)）
+2. ~~Token的分类，各类Token的应用场景~~（[Crypto Meeting on 2023.10.21](topic-cache.md#0x01-qu-kuai-lian-ying-yong-chang-jing-xiang-guan)）
 3. 行业合规相关讨论，行业前景展望
 
 ### 0x02 Solidity Live Coding
 
 1. ERC-20 Token合约编写和部署（demo）
 2. Token Swap合约编写和部署（demo）
-3. ERC-721 NFT合约编写和部署（设计，铸造并分发KITCryptoDAO的Genesis系列NFT）
+3. ~~ERC-721 NFT合约编写和部署~~（[Solidity Live Coding on 2023.11.18](solidity-live-coding/erc-721-token-contract.md)）
 
 ### 0x03 市场/交易/基础经济模型相关
 
-1. MM/AMM/LP/DEX/CEX 术语和经济模型解读
+1. ~~MM/AMM/LP/DEX/CEX 术语和经济模型解读~~（[Crypto Meeting on 2023.10.28](saturday-crypto-meetings/qu-kuai-lian-ying-yong-chang-jing-tao-lun/crypto-trading.md)）
 2. Spot/Future 术语和经济模型解读
 3. Leverage/Margin/CFD 术语和经济模型解读
 4. 宏观经济数据及其对市场的影响
 
 ### 0x04 高频交易/量化交易（[HFT](https://en.wikipedia.org/wiki/High-frequency\_trading)/[QT](https://careers.imc.com/eu/en/blogarticle/what-is-quantitative-trading)）相关
 
-1. HFT/QT 术语和经济模型解读
+1. ~~HFT/QT 术语和经济模型解读~~（[Crypto Meeting on 2023.10.28](saturday-crypto-meetings/qu-kuai-lian-ying-yong-chang-jing-tao-lun/crypto-trading.md)）
 2. HFT/QT 基础策略介绍
 3. HFT Bot 编写实战和测试（Python）
 

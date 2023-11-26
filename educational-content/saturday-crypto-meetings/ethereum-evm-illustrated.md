@@ -1,5 +1,5 @@
 ---
-description: Topic for the Crypto Meeting on 2023.11.04
+description: Topic for the Crypto Meeting on 2023.11.04, hosted by Zion Zhan
 ---
 
 # Ethereum EVM illustrated
