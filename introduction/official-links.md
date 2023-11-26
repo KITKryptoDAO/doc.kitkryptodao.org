@@ -8,5 +8,4 @@ description: The Official Links of KITKryptoDAO
 
 * KITKryptoDAO on GitHub: [https://github.com/KITKryptoDAO](https://github.com/KITKryptoDAO)
 * KITKryptoDAO on GitBook: [https://doc.kitkryptodao.org](https://doc.kitkryptodao.org)
-* KITKryptoDAO on Guild.xyz: [https://guild.xyz/kitkryptodao](https://guild.xyz/kitkryptodao)
-
+* KITKryptoDAO on Guild.xyz: [https://guild.xyz/kitkryptodao](https://guild.xyz/kitkryptodao) (Under Building)
