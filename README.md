@@ -6,7 +6,7 @@ description: About Us, our Objectives and Vision
 
 ### 0x00 简要介绍
 
-KITKryptoDAO是由[Zion Zhan](https://twitter.com/zlog\_in)发起，[Hannes Gao](https://twitter.com/hannesgao)[Clarence Wu](https://niemand-01.github.io/)作为Co-Host协助运营的，非盈利性的，以区块链相关知识普及和行业人脉构建为主要目的去中心化自治组织（DAO）。
+KITKryptoDAO是由[Zion Zhan](https://twitter.com/zlog\_in)发起，[Hannes Gao](https://twitter.com/hannesgao)和[Clarence Wu](https://niemand-01.github.io/)作为Co-Host协助运营的，非盈利性的，以区块链相关知识普及和行业人脉构建为主要目的去中心化自治组织（DAO）。
 
 ### 0x01 成员构成
 
