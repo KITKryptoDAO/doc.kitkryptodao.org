@@ -21,5 +21,7 @@
   * [Ethereum EVM illustrated](educational-content/saturday-crypto-meetings/ethereum-evm-illustrated.md)
 * [Solidity Live Coding](educational-content/solidity-live-coding/README.md)
   * [Solidity Playground Setup](educational-content/solidity-live-coding/solidity-playground-setup.md)
+  * [ERC-721 Token Contract](educational-content/solidity-live-coding/erc-721-token-contract.md)
+  * [Frontend Setup](educational-content/solidity-live-coding/frontend-setup.md)
 * [Topic Cache](educational-content/topic-cache.md)
 * [Glossary](educational-content/glossary.md)
