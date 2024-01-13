@@ -33,7 +33,7 @@ description: The Funding of KITKryptoDAO
 
 目前KITKryptoDAO的储备金库（DAO Treasury）收到的捐款，初步计划用于：
 
-1. 组织群组内部的学习和实践活动（如[Saturday Crypto Meetings](../educational-content/saturday-crypto-meetings/)和[Solidity Live Coding](../educational-content/topic-cache.md#0x02-solidity-live-coding)）
+1. 组织群组内部的学习和实践活动（如[Saturday Crypto Meetings](../../educational-content/saturday-crypto-meetings/)和[Solidity Live Coding](../../educational-content/topic-cache.md#0x02-solidity-live-coding)）
 2. 支付群组基础设施开销（如ENS订阅费等必要开支）
 3. 组织线下讨论和聚会（TBD）
 4. 组织参加区块链相关展会（TBD）

@@ -7,7 +7,8 @@
 
 ## DAO related
 
-* [DAO Treasury](dao-related/dao-treasury.md)
+* [DAO Treasury](dao-related/dao-treasury/README.md)
+  * [Monthly Review 2024.01](dao-related/dao-treasury/monthly-review-2024.01.md)
 * [DAO Governance](dao-related/dao-governance.md)
 
 ## Educational Content
